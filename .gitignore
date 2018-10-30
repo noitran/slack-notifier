@@ -1,0 +1,4 @@
+bin
+rootfs/slack-notifier
+.idea
+tester.sh
