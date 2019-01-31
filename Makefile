@@ -1,4 +1,4 @@
-DOCKER_REGISTRY ?= "iocaste"
+DOCKER_REGISTRY ?= "noitran"
 
 .PHONY: build
 build:

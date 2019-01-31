@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/int128/slack"
+	"log"
 	"os"
 	"time"
 )
@@ -33,7 +34,7 @@ func main() {
 
  	err := json.Unmarshal(body, &attachmentStruct)
 	if  err != nil {
-		stdErr("Failed to parse attachment")
+		log.Fatalf("Failed to parse attachment: %s", err)
 	}
 
 	var msg = &slack.Message{
