@@ -2,8 +2,7 @@ Slack-notifier
 ====================
 
 <p align="center">
-	
-=<a href="https://hub.docker.com/r/noitran/slack-notifier"><img src="https://img.shields.io/docker/build/noitran/slack-notifier.svg?style=flat-square" alt="Latest Version"></img></a>
+<a href="https://hub.docker.com/r/noitran/slack-notifier"><img src="https://img.shields.io/docker/build/noitran/slack-notifier.svg?style=flat-square" alt="Latest Version"></img></a>
 <a href="https://github.com/noitran/opendox/slack-notifier"><img src="https://img.shields.io/github/release/noitran/slack-notifier.svg?style=flat-square" alt="Latest Version"></img></a>
 <a href="#"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
 </p>
