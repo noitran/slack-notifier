@@ -11,7 +11,7 @@ Dockerized tool to send slack notifications via Slack Incomming Webhooks. Ideal 
 
 ### Example
 
-![alt text](https://github.com/noitran/slack-notifier/blob/master/_demo/view.png?raw=true)
+![alt text](https://github.com/noitran/slack-notifier/blob/master/_demo/preview.png?raw=true)
 
 ## Slack Configuration
 
